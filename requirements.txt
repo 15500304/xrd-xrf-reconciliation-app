@@ -2,6 +2,3 @@ streamlit
 pandas
 openpyxl
 xlsxwriter
-plotly
-reportlab
-sqlite3  # note: part of standard library
